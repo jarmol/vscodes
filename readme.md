@@ -1,3 +1,6 @@
+# vscodes
+Notations of using MS Visual Studio Code on OS X 10.10
+
 #VSCode on Mac OSX Yosemite
 #Experimenting the use of Visual Studio Code installed to Mac.
 Requires [Node](http://www.nodejs.org) installed previously.
